@@ -1,0 +1,25 @@
+{
+  "Buildings": [
+    {
+      "Id": "house_small",
+      "DisplayName": "Small House",
+      "GridWidth": 4,
+      "GridHeight": 5,
+      "SpriteResourcePath": "Sprites/Buildings/HouseSmall"
+    },
+    {
+      "Id": "house_big",
+      "DisplayName": "Big House",
+      "GridWidth": 5,
+      "GridHeight": 4,
+      "SpriteResourcePath": "Sprites/Buildings/HouseBig"
+    },
+    {
+      "Id": "factory",
+      "DisplayName": "Factory",
+      "GridWidth": 5,
+      "GridHeight": 4,
+      "SpriteResourcePath": "Sprites/Buildings/Factory"
+    }
+  ]
+}

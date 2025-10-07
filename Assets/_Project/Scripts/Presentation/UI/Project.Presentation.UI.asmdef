@@ -1,0 +1,26 @@
+{
+    "name": "Project.Presentation.UI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a028a1c72ee6e8c40b75e422df494ac6",
+        "GUID:199d9ee9066c35742869684043f2cea5",
+        "GUID:53d30664d84e4da42894491dd095eb0f",
+        "GUID:4d654e5b06c62b340b796cf46557f9fe",
+        "GUID:1dfa413bce76be64b8aaec0fa9123b52",
+        "GUID:b41860006a1530c48b0570bf9e4e11b8",
+        "GUID:a569c80f36c13554a9acf02344269eb1",
+        "GUID:90f6742a40f6855498a6470b914c516f",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
