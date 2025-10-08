@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace _Project.Scripts.Presentation.UI
+namespace ProjectGame.Scripts.Presentation.UI
 {
     public class BuildingItemView : MonoBehaviour
     {

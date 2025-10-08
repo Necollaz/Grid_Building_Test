@@ -1,4 +1,4 @@
-namespace _Project.Scripts.Application.Placement
+namespace ProjectGame.Scripts.Application.Placement
 {
     public delegate void OnPlacementModeChange(PlacementInteractionModeType mode);
     

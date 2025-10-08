@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace _Project.Scripts.Domain.Buildings
+namespace ProjectGame.Scripts.Domain.Buildings
 {
     public class BuildingCatalog
     {

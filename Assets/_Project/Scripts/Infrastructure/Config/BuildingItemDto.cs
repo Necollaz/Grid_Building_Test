@@ -1,6 +1,6 @@
 using System;
 
-namespace _Project.Scripts.Infrastructure.Config
+namespace ProjectGame.Scripts.Infrastructure.Config
 {
     [Serializable]
     public class BuildingItemDto

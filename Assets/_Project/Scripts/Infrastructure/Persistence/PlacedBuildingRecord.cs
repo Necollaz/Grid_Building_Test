@@ -1,4 +1,4 @@
-namespace _Project.Scripts.Infrastructure.Persistence
+namespace ProjectGame.Scripts.Infrastructure.Persistence
 {
     public struct PlacedBuildingRecord
     {
