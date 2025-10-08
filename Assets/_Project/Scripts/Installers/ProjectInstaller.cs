@@ -1,7 +1,7 @@
 using Zenject;
-using _Project.Scripts.Application.Placement;
-using _Project.Scripts.Infrastructure.Config;
-using _Project.Scripts.Infrastructure.Persistence;
+using ProjectGame.Scripts.Application.Placement;
+using ProjectGame.Scripts.Infrastructure.Config;
+using ProjectGame.Scripts.Infrastructure.Persistence;
 
 public class ProjectInstaller : MonoInstaller
 {

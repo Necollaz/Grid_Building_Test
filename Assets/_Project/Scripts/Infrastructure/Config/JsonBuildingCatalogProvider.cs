@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 using Newtonsoft.Json;
-using _Project.Scripts.Domain.Buildings;
+using ProjectGame.Scripts.Domain.Buildings;
 
-namespace _Project.Scripts.Infrastructure.Config
+namespace ProjectGame.Scripts.Infrastructure.Config
 {
     public class JsonBuildingCatalogProvider
     {

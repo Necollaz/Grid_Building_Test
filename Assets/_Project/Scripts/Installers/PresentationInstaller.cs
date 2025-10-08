@@ -1,10 +1,10 @@
 using UnityEngine;
 using Zenject;
-using _Project.Scripts.Application.Persistence;
-using _Project.Scripts.Application.Placement;
-using _Project.Scripts.Domain.Grid;
-using _Project.Scripts.Infrastructure.Input;
-using _Project.Scripts.Presentation.Views;
+using ProjectGame.Scripts.Application.Persistence;
+using ProjectGame.Scripts.Application.Placement;
+using ProjectGame.Scripts.Domain.Grid;
+using ProjectGame.Scripts.Infrastructure.Input;
+using ProjectGame.Scripts.Presentation.Views;
 
 public class PresentationInstaller : MonoInstaller
 {

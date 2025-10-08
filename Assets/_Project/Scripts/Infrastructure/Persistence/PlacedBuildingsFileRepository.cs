@@ -5,7 +5,7 @@ using UnityEngine;
 using Newtonsoft.Json;
 using Zenject;
 
-namespace _Project.Scripts.Infrastructure.Persistence
+namespace ProjectGame.Scripts.Infrastructure.Persistence
 {
     public class PlacedBuildingsFileRepository
     {

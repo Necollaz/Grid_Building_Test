@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace _Project.Scripts.Infrastructure.Persistence
+namespace ProjectGame.Scripts.Infrastructure.Persistence
 {
     public class PlacedBuildingsWrapper
     {

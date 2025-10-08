@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace _Project.Scripts.Presentation.Views
+namespace ProjectGame.Scripts.Presentation.Views
 {
     [RequireComponent(typeof(SpriteRenderer))]
     public class PlacementCursorView : MonoBehaviour

@@ -2,10 +2,10 @@ using System;
 using UnityEngine;
 using Zenject;
 using Object = UnityEngine.Object;
-using _Project.Scripts.Domain.Buildings;
-using _Project.Scripts.Domain.Grid;
+using ProjectGame.Scripts.Domain.Buildings;
+using ProjectGame.Scripts.Domain.Grid;
 
-namespace _Project.Scripts.Presentation.Views
+namespace ProjectGame.Scripts.Presentation.Views
 {
     public class BuildingFactory
     {

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace _Project.Scripts.Domain.Grid
+namespace ProjectGame.Scripts.Domain.Grid
 {
     public class GridCoordinateConverter
     {

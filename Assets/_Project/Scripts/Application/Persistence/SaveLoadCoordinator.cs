@@ -1,14 +1,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Zenject;
-using _Project.Scripts.Application.Placement;
-using _Project.Scripts.Domain.Grid;
-using _Project.Scripts.Domain.Buildings;
-using _Project.Scripts.Infrastructure.Config;
-using _Project.Scripts.Infrastructure.Persistence;
-using _Project.Scripts.Presentation.Views;
+using ProjectGame.Scripts.Application.Placement;
+using ProjectGame.Scripts.Domain.Grid;
+using ProjectGame.Scripts.Domain.Buildings;
+using ProjectGame.Scripts.Infrastructure.Config;
+using ProjectGame.Scripts.Infrastructure.Persistence;
+using ProjectGame.Scripts.Presentation.Views;
 
-namespace _Project.Scripts.Application.Persistence
+namespace ProjectGame.Scripts.Application.Persistence
 {
     public class SaveLoadCoordinator
     {

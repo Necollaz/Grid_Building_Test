@@ -1,14 +1,14 @@
 using UnityEngine;
-using Zenject;
-using _Project.Scripts.Application.Placement;
-using _Project.Scripts.Domain.Buildings;
-using _Project.Scripts.Domain.Grid;
-using _Project.Scripts.Presentation.Views;
-using _Project.Scripts.Infrastructure.Config;
-using _Project.Scripts.Infrastructure.Input;
 using UnityEngine.EventSystems;
+using Zenject;
+using ProjectGame.Scripts.Application.Placement;
+using ProjectGame.Scripts.Domain.Buildings;
+using ProjectGame.Scripts.Domain.Grid;
+using ProjectGame.Scripts.Presentation.Views;
+using ProjectGame.Scripts.Infrastructure.Config;
+using ProjectGame.Scripts.Infrastructure.Input;
 
-namespace _Project.Scripts.Presentation.UI
+namespace ProjectGame.Scripts.Presentation.UI
 {
     public class PlacementController : MonoBehaviour
     {

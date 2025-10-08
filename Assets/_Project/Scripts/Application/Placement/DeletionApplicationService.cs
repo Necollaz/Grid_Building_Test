@@ -1,10 +1,10 @@
 using System;
 using UnityEngine;
 using Zenject;
-using _Project.Scripts.Domain.Grid;
-using _Project.Scripts.Presentation.Views;
+using ProjectGame.Scripts.Domain.Grid;
+using ProjectGame.Scripts.Presentation.Views;
 
-namespace _Project.Scripts.Application.Placement
+namespace ProjectGame.Scripts.Application.Placement
 {
     public class DeletionApplicationService
     {

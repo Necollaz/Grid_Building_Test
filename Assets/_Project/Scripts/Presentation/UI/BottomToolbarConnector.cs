@@ -1,8 +1,8 @@
 using UnityEngine;
 using Zenject;
-using _Project.Scripts.Application.Placement;
+using ProjectGame.Scripts.Application.Placement;
 
-namespace _Project.Scripts.Presentation.UI
+namespace ProjectGame.Scripts.Presentation.UI
 {
     public class BottomToolbarConnector : MonoBehaviour
     {

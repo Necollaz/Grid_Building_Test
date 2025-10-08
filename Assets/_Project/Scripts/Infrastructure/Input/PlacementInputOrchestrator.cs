@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-namespace _Project.Scripts.Infrastructure.Input
+namespace ProjectGame.Scripts.Infrastructure.Input
 {
     public class PlacementInputOrchestrator
     {
